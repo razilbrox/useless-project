@@ -42,8 +42,9 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
-![Uploading image.png…]()
+Add caption explaining what this shows 
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/efd487e0-d4c3-49e0-abf6-d18a36420b35" />
+
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
